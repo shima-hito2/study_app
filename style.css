@@ -1,0 +1,15 @@
+/* 共通部分 */
+* {
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+/* トップページ */
+.topPageBody{
+  margin: 0 40px;
+}
